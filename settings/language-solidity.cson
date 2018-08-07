@@ -1,4 +1,4 @@
-'.source.sol':
+'.source.solidity':
   'editor':
     'nonWordCharacters': '/\\()"\':,.;<>~!#@%^&*|+=[]{}`?-…'
     'commentStart': '// '
